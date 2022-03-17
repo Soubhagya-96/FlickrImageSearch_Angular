@@ -1,6 +1,9 @@
 # picturesearch-Angular
 An angular app to search for pictures based on location details
 
+* The backend for this project can be found here:  
+ https://github.com/Soubhagya-96/FlickrSearch_API
+
 ## How it works:
 User can given input in the form of location name or coordinates or can even choose from given preset list and the list of images is diplayed below.
 If any location details is not present with the application, the details will be saved and the images will be displayed.
