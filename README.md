@@ -1,2 +1,2 @@
-# FlickrImageSearch_Angular
-An application to search for images based on location details.
+# picturesearch-Angular
+An angular app to search for pictures based on location details

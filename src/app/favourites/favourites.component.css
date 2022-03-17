@@ -1,0 +1,11 @@
+.f_images {
+    height: 300px;
+    width: 300px;
+}
+
+.f_images img {
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: fill;
+    cursor: pointer;
+}

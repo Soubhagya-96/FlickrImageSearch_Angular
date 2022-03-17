@@ -1,0 +1,50 @@
+.heading {
+    color: rgb(63, 63, 63);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-inline {
+    display: block;
+}
+
+.nameInput {
+    width: 100%;
+}
+
+.selectInput {
+    width: 100%;
+}
+
+.images {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+    object-fit: fill;
+    cursor: pointer;
+}
+
+.about {
+    font-weight: 500;
+    font-size: normal;
+    color: gray;
+}
+
+.current {
+    color: gray;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.firstpage {
+    position: absolute;
+    margin-top: 5px;
+}
+
+.lastpage {
+    position: absolute;
+    margin-top: 5px;
+}
